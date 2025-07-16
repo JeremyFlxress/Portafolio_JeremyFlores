@@ -1,6 +1,6 @@
 # 📁 Portafolio de Proyectos – Jeremy Flores
 
-Soy Jeremy Flores, estudiante de la UDB. Aquí comparto algunos de los proyectos más destacados que he desarrollado en equipo a lo largo de mi formación. Cada uno incluye detalles sobre su funcionalidad, tecnologías utilizadas y enlaces directos a los repositorios.
+Soy Jeremy Flores, estudiante activo de la Universidad Don Bosco en Técnico en Ingeniería en Computación. Aquí comparto algunos de los proyectos más destacados que he desarrollado en equipo a lo largo de mi formación. Cada uno incluye detalles sobre su funcionalidad, tecnologías utilizadas y enlaces directos a los repositorios.
 
 ---
 
@@ -68,4 +68,4 @@ Responsable del desarrollo completo del frontend:
 
 ---
 
-Si querés contactarme, podés escribirme a través de mi correo electrónico: jeremyedenilson@gmail.com o por LinkedI: https://www.linkedin.com/in/jeremyflores2022/.
+Si querés contactarme, podés escribirme a través de mi correo electrónico: jeremyedenilson@gmail.com o por LinkedIn: https://www.linkedin.com/in/jeremyflores2022/.
